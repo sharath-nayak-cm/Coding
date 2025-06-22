@@ -1,0 +1,20 @@
+{
+ "compilerOptions": {
+   "esModuleInterop": true,
+   "skipLibCheck": true,
+   "target": "ESNext",
+   "allowJs": true,
+   "resolveJsonModule": false,
+   "moduleDetection": "force",
+   "isolatedModules": true,
+   "module": "NodeNext",
+   "outDir": "./dist",
+   "sourceMap": false,
+   "alwaysStrict": true,
+   "declaration": false,
+   "strict": true,
+   "rootDirs": ["./src"]
+ },
+ "include": ["src/**/*"], // Include all files from src directory
+ "exclude": ["dist", "node_modules"]
+}
