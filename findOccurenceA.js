@@ -1,5 +1,6 @@
 /**
- * There is a string, str, of lowercase English letters that is repeated infinitely many times. Given an integer,n ,
+ * There is a string, str, of lowercase English letters that is repeated infinitely many times. 
+ * Given an integer,n ,
  * find and print the number of letter a's in the first  letters of the infinite string.
  *
  * example
